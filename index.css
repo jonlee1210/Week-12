@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+    background-color: white;
+}
+
+.orange-text {
+    color: #FFA500;
+}
+
+.green-text {
+    color: #008000;
+}
+
+.btn-primary {
+    background-color: #33bc30;
+    border-color: #FFA500;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #2342ce;
+    border-color: #2342ce;
+}
+
+.btn-danger {
+    background-color: #ff8c00;
+    border-color: #33bc30;
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: #2342ce;
+    border-color: #2342ce;
+}
